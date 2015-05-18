@@ -1,0 +1,21 @@
+{
+  "name": "xxxxxx",
+  "version": "0.1.0",
+  "description": "xxxxxx",
+  "author": "xxxxxx",
+  "devDependencies": {
+    "browser-sync": "~0.9.1",
+    "gulp": "~3.8.10",
+    "gulp-coffee": "~1.4.3",
+    "gulp-concat": "~2.2.0",
+    "gulp-jshint": "~1.6.3",
+    "gulp-livereload": "~1.5.0",
+    "gulp-sass": "^2.0.1",
+    "gulp-shell": "~0.2.7",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-uglify": "~0.3.0",
+    "gulp-util": "^3.0.4",
+    "node-qunit-phantomjs": "^1.2.0",
+    "tiny-lr": "0.0.7"
+  }
+}
